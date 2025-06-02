@@ -78,9 +78,3 @@ The application includes:
 | Fake News Detection  | 95.44%   | BiRNN-MLP    |
 | News Categorization  | 95.12%   | DistilBERT   |
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fake-news-detector.git
-   cd fake-news-detector
